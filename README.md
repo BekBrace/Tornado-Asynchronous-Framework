@@ -35,3 +35,7 @@ and here the operating system intervens to share your CPU with these threads
 
 3 The last way is asynchronous programming which what Tornado does, even though the opperating system will not have any
 role here, yet we'll be able to achieve multiple things at once with asynchronous programming
+
+Make sure to check out my last video on tornado Framework
+Signin' out, 
+Bek 
